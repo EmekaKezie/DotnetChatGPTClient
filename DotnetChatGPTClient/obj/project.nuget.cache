@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8q7HOFjueSymwJ+8YykvJsaSdfGCs+gw8e4Wn8VGwlEnGAAkdxs+HUq3T2L1+vTalT4iVh7ueSPwayuNQ/z1xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emeka\\source\\repos\\DotnetChatGPTClient\\DotnetChatGPTClient\\DotnetChatGPTClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emeka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\emeka\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\emeka\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
